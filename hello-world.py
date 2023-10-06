@@ -15,7 +15,8 @@ def main():
 	PrintHelloWorld()
 
 
-	#When we run the program
-	#this executes first
-	if _name_=="main":
-		main()
+#When we run the program
+#this executes first
+
+if __name__=="__main__":
+	main()
