@@ -1,0 +1,10 @@
+# How to put documents through BASH
+# cd until you enter /c/users/kerem/Github/astr-19
+
+git add .
+
+git commit -m "name_of_the_file.py"
+
+git push
+
+# dad would be proud
